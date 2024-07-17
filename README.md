@@ -1,4 +1,8 @@
-![Logo](logo.png)
+<p align="center">
+
+<img src="logo.png" alt="Logo" width="256">
+
+</p>
 
 > *NOTICE*
 >
