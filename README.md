@@ -4,7 +4,7 @@
 >
 > This is an abstract idea, not an existing application.
 
-Build complex bitmaps in your mobile phone.
+Build complex bitmaps in your mobile phone in landscape orientation.
 
 * Bitmap = pixel grid
 * Bitmap channels = red, green, blue, alpha
