@@ -56,6 +56,6 @@ Zoom is usually done by pinching into the screen through two fingers.
 
 ## Project Format
 
-Lightbitmap includes its own project file format because it is not just bitmap-oriented, but also includes shapes, layers, masks, effects, groups, and more.
+The application includes its own project file format because it is not just bitmap-oriented, but also includes shapes, layers, masks, effects, groups, and more.
 
 The project format may always be saved as a common PNG file.
