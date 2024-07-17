@@ -1,4 +1,4 @@
-# Lightbitmap
+![Logo](logo.png)
 
 Build complex bitmaps in your mobile phone.
 
