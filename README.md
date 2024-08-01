@@ -1,12 +1,4 @@
-<p align="center">
-
-<img src="logo.png" alt="Logo" width="256">
-
-</p>
-
-> *NOTICE*
->
-> This is an abstract idea, not an existing application.
+# Pixel Fusion
 
 Build complex bitmaps in your mobile phone in landscape orientation.
 
