@@ -1,10 +1,15 @@
-# Pixel Fusion
+<p align="center">
+  <img src="banner.png" alt="Pixel Fusion">
+</p>
 
-Build complex bitmaps in your mobile phone in landscape orientation.
+(Abstract)
+
+Build complex bitmaps and shapes.
 
 * Bitmap = pixel grid
 * Bitmap channels = red, green, blue, alpha
 * Sketch shapes and rasterize them as you wish.
+* Save the project as a PSD file, a PNG file, or a SVG file.
 
 ## Examples
 
