@@ -9,7 +9,8 @@ Build complex bitmaps and shapes.
 * Bitmap = pixel grid
 * Bitmap channels = red, green, blue, alpha
 * Sketch shapes and rasterize them as you wish.
-* Save the project as a PSD file, a PNG file, or a SVG file.
+* Save the project as a PSD file, a PNG file, a JPEG file, a BMP file, a GIF file, or a SVG file.
+* Save the timeline as an image sequence.
 
 ## Path tool
 
@@ -40,6 +41,10 @@ The selection tool selects only bitmaps in a layer, and not shapes, paths or tex
 * Ellipse
 * Free-form (drag-draw-drop)
 * By color-range (like near RGB = `#00FF00`)
+
+## Sprite sheet
+
+The sprite sheet mode allows configuring a sprite sheet file that may consist of a few specific frame layouts and editing it efficiently through the timeline.
 
 ## Several
 
